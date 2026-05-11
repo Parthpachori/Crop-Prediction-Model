@@ -5,8 +5,8 @@ The dataset used for this project contains information about various crops and t
 
 Source: The dataset was loaded from a local zip file named archive (11).zip. The original source is not explicitly mentioned in the notebook.
 Shape: The dataset has 2200 rows and 8 columns.
-Features: The dataset includes the following columns:/
-N: Ratio of Nitrogen in the soil/
+Features: The dataset includes the following columns:\
+N: Ratio of Nitrogen in the soil\
 P: Ratio of Phosphorus in the soil
 K: Ratio of Potassium in the soil
 temperature: Temperature in Celsius
